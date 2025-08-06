@@ -23,7 +23,15 @@ print(f'Resultado: {result}')
 
 # Divisão exata só pega número inteiro
 result = n1 // n2
-print(f'Resultado: {result}')
+print(f'O resto da divisão de {n1} por {n2}: {result}')
 
 # Potência
+
+
+
+# Módulo
+n1 = 13
+n2 = 2
+result = n1 % n2
+print(f'Resultado: {result}')
 
